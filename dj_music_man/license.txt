@@ -1,0 +1,11 @@
+Model Information:
+* title:	DJ Music Man
+* source:	https://sketchfab.com/3d-models/dj-music-man-0b2c94f8086d4557be981fcf23041276
+* author:	Some Random Guy From Internet (https://sketchfab.com/165738)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "DJ Music Man" (https://sketchfab.com/3d-models/dj-music-man-0b2c94f8086d4557be981fcf23041276) by Some Random Guy From Internet (https://sketchfab.com/165738) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
